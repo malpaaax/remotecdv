@@ -2,4 +2,5 @@ pierwszy wiersz
 drugi wiersz
 trzeci wiersz
 wszystkie cztery 
+Nowa funkcja 
 
